@@ -5,5 +5,5 @@ I'm a computer science and engineering student, currently pursuing my degree at 
 - C, Java
 - Web development : HTML, CSS, Javascript
 
-I will be glad to connect for collaborations, discussions etc<br>
+I will be glad to connect for collaborations or discussions<br>
 Email : *bhadraunnim@gmail.com*
